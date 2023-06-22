@@ -273,6 +273,10 @@ text {
   margin-left: 360px;
 }
 
+.slide-wrap .left2 img:hover {
+  transform: scale(1.05);
+}
+
 .slide-wrap .left3 img {
   width: 255px;
   height: 80px;
